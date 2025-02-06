@@ -67,4 +67,5 @@ This API provides a robust and efficient way to retrieve mathematical informatio
     Jackson (for JSON serialization/deserialization)
 
 ## Deployment
-The application has been deployed to Railway
+The application has been deployed to Railway: 
+[Test the API](https://hngapi-production.up.railway.app/api/classify-number?number=123)
